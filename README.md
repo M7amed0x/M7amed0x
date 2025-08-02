@@ -13,16 +13,6 @@ Welcome to my GitHub profile! I specialize in discovering vulnerabilities, secur
 - Tools: Burp Suite, Nmap, Metasploit, Wireshark, OWASP ZAP, Recon-ng
 - Languages: Python, Bash, JavaScript, PHP
 
----
-
-### 🚩 Featured Projects
-- **[Your flagship project here]** – Brief description or link
-- **[Another cool repo]** – Brief description or link
-
-*(Let me know if you want to add specific projects or links above!)*
-
----
-
 ### 🏆 Achievements
 - Hall of Fame mentions (let me know if you want to list specific companies!)
 - CTF Participant & Winner
