@@ -1,6 +1,6 @@
 # 👋 Hi, I’m M7amed0x
 
-## 🕵️‍♂️ Penetration Tester & Bug Bounty Hunter
+## 🕵️‍♂️ Penetration Tester & Bug Bounty Hunter & CTF Player 
 
 Welcome to my GitHub profile! I specialize in discovering vulnerabilities, securing applications, and making the internet a safer place. My journey involves deep dives into web security, reverse engineering, and ethical hacking.
 
@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I specialize in discovering vulnerabilities, secur
 - Languages: Python, Bash, JavaScript, PHP
 
 ### 🏆 Achievements
-- Hall of Fame mentions (let me know if you want to list specific companies!)
+- Hall of Fame 
 - CTF Participant & Winner
 - Always learning, always hacking
 
