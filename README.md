@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hi, I’m M7amed0x
 
-<!--
-**M7amed0x/M7amed0x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🕵️‍♂️ Penetration Tester & Bug Bounty Hunter
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I specialize in discovering vulnerabilities, securing applications, and making the internet a safer place. My journey involves deep dives into web security, reverse engineering, and ethical hacking.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Skills & Tools
+- Penetration Testing (Web, Network, Mobile)
+- Bug Bounty Hunting
+- Vulnerability Assessment & Exploitation
+- Tools: Burp Suite, Nmap, Metasploit, Wireshark, OWASP ZAP, Recon-ng
+- Languages: Python, Bash, JavaScript, PHP
+
+---
+
+### 🚩 Featured Projects
+- **[Your flagship project here]** – Brief description or link
+- **[Another cool repo]** – Brief description or link
+
+*(Let me know if you want to add specific projects or links above!)*
+
+---
+
+### 🏆 Achievements
+- Hall of Fame mentions (let me know if you want to list specific companies!)
+- CTF Participant & Winner
+- Always learning, always hacking
+
+---
